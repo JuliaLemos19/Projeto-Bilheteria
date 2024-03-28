@@ -18,13 +18,13 @@
   <i> ‘.’ representa lugar vago</i><br>
   <i> # ‘#’ representa lugar ocupado</i><br>
 
-# A opção 3 deverá apresentar na tela # as seguintes informações:
+- A opção 3 deverá apresentar na tela as seguintes informações:
 
-# Qtde de lugares ocupados: 	999
-# Valor da bilheteria: 		R$ 9999,99
+  <i> Qtde de lugares ocupados: 	999</i><br>
+  <i>Valor da bilheteria: 		R$ 9999,99</i><br>
 
-# Sabendo-se que:
+- Sabendo-se que:
 
-# •	Fileiras 1 a 5:		R$ 50,00
-# •	Fileiras 6 a 10:	R$ 30,00
-# •	Fileiras 11 a 15:	R$ 15,00
+- •	Fileiras 1 a 5:		R$ 50,00
+- •	Fileiras 6 a 10:	R$ 30,00
+- •	Fileiras 11 a 15:	R$ 15,00
