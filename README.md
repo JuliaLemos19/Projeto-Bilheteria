@@ -6,10 +6,10 @@
 
 - Deseja-se um sistema de controle de ocupação que ofereça as seguintes opções, através de um seletor:
 
-  0.	Finalizar
-  1.	Reservar poltrona
-  2.	Mapa de ocupação
-  3.	Faturamento
+  <i>0.	Finalizar</i>
+  <i>1.	Reservar poltrona</i>
+  <i>2.	Mapa de ocupação</i>
+  <i>3.	Faturamento</i>
 
 # A opção 1 deverá solicitar a informação da fileira e da poltrona. Os dados devem ser consistidos no sentido da garantia de serem válidos. Caso o lugar esteja vago, efetuar a reserva e informar o usuário do sucesso da operação. Caso o lugar já se encontre ocupado, alertar o usuário com uma mensagem.
 
