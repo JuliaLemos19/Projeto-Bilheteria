@@ -1,12 +1,12 @@
-# este é um projeto da aula de estrutura de dados 1, lecionado pelo professor Marco Aurélio do Instituto Federal - Campus Cubatão (IFSP).
+## este é um projeto da aula de estrutura de dados 1, lecionado pelo professor Marco Aurélio do Instituto Federal - Campus Cubatão (IFSP).
 
 # Projeto-Bilheteria
 
-# Um teatro possui 600 lugares dispostos em 15 fileiras com 40 poltronas cada.
+- Um teatro possui 600 lugares dispostos em 15 fileiras com 40 poltronas cada.
 
-# Deseja-se um sistema de controle de ocupação que ofereça as seguintes opções, através de um seletor:
+- Deseja-se um sistema de controle de ocupação que ofereça as seguintes opções, através de um seletor:
 
-# 0.	Finalizar
+-- 0.	Finalizar
 # 1.	Reservar poltrona
 # 2.	Mapa de ocupação
 # 3.	Faturamento
