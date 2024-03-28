@@ -87,7 +87,7 @@ int main() {
         } else if (opcao == 3) {
             teatro.mostrarFaturamento();
         } else {
-            cout << "Opção inválida." << end;
+            cout << "Opção inválida." << endl;
         }
     }
 
