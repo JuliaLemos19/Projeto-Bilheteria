@@ -15,8 +15,8 @@
 
 - A opção 2 deverá gerar na tela um “mapa” de ocupação do teatro com uma legenda onde:
 
- <i> ‘.’ representa lugar vago</i><br>
- <i> # ‘#’ representa lugar ocupado</i><br>
+  <i> ‘.’ representa lugar vago</i><br>
+  <i> # ‘#’ representa lugar ocupado</i><br>
 
 # A opção 3 deverá apresentar na tela # as seguintes informações:
 
