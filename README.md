@@ -6,7 +6,7 @@
 
 - Deseja-se um sistema de controle de ocupação que ofereça as seguintes opções, através de um seletor:
 
--- 0.	Finalizar
+ - 0.	Finalizar
 # 1.	Reservar poltrona
 # 2.	Mapa de ocupação
 # 3.	Faturamento
