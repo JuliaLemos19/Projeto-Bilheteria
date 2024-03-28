@@ -25,6 +25,6 @@
 
 - Sabendo-se que:
 
-   •	Fileiras 1 a 5:		R$ 50,00
-   •	Fileiras 6 a 10:	R$ 30,00
-   •	Fileiras 11 a 15:	R$ 15,00
+   •	Fileiras 1 a 5:		R$ 50,00<br>
+   •	Fileiras 6 a 10:	R$ 30,00<br>
+   •	Fileiras 11 a 15:	R$ 15,00<br>
