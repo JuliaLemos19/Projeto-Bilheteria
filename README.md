@@ -11,12 +11,12 @@
   <i>2.	Mapa de ocupação</i><br>
   <i>3.	Faturamento</i><br>
 
-# A opção 1 deverá solicitar a informação da fileira e da poltrona. Os dados devem ser consistidos no sentido da garantia de serem válidos. Caso o lugar esteja vago, efetuar a reserva e informar o usuário do sucesso da operação. Caso o lugar já se encontre ocupado, alertar o usuário com uma mensagem.
+- A opção 1 deverá solicitar a informação da fileira e da poltrona. Os dados devem ser consistidos no sentido da garantia de serem válidos. Caso o lugar esteja vago, efetuar a reserva e informar o usuário do sucesso da operação. Caso o lugar já se encontre ocupado, alertar o usuário com uma mensagem.
 
-# A opção 2 deverá gerar na tela um “mapa” de ocupação do teatro com uma legenda onde:
+- A opção 2 deverá gerar na tela um “mapa” de ocupação do teatro com uma legenda onde:
 
-# ‘.’ representa lugar vago
-# ‘#’ representa lugar ocupado
+<i> ‘.’ representa lugar vago</i><br>
+<i> # ‘#’ representa lugar ocupado</i><br>
 
 # A opção 3 deverá apresentar na tela # as seguintes informações:
 
